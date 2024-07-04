@@ -11,7 +11,6 @@
          <meta name="keywords"
          content="web develop, graphic design, social media content creation"/>
          <meta name="author" content="Hachalu Academy"/>
-       <!------------link from the out side-->
        <link rel="stylesheet" href="./css"/>
        <link rel="stylesheet" href="./javascript"/>
        <link
@@ -31,16 +30,13 @@
               <span id="Academy"> Asfaw
       </span>
       </h1>
-    <div>
     <h1 class="about-us">About Us</h1>
     <p>
     I am an Electromechanical engineer technician, developer, graphic designer, content creator. I am single and I live in Addis Ababa, Ethiopia.
     I attended different universities and that gave me an insight for many of the things I do right now. I teach different technologies 
     specially HTML, CSS, JS, React, Python, photoshop and graphic design. In addition, I am give training on electromechanical device troubleshooting and repair
     and machine learning enthusiast. I enjoy creating different educational materials. 
-    </p>
-
-    </div> 
+    </p> 
 <address>
   Addis Ababa, Ethiopia </br>
   POBOX:1000 </br>
@@ -49,8 +45,6 @@
 </address>
 
    <footer >
-    <!.....about link...>
-   <div>
     <a href="https://github.com/Jerman-A/Jerman-A.git" target="_blank"
       ><i class="fab fa-github-square"></i
     ></a>
@@ -61,13 +55,5 @@
       ><i class="fab fa-twitter-square"></i
     ></a>
     <a href="https://member.theroom.com/profile/7b8893a7-bc10-429d-95f0-a442f3ffb384" target="_blank"> ALX </a>
-  </div> 
-    <em>
-      jerman Web Development Academy Copywrite &copy; 2024GC
-    </em>
-   </footer>
-
-   </body>
-  
-    
+   
 </html>
