@@ -11,8 +11,6 @@
          <meta name="keywords"
          content="web develop, graphic design, social media content creation"/>
          <meta name="author" content="Hachalu Academy"/>
-       <title>Hachalu Academy
-       </title>
        <!------------link from the out side-->
        <link rel="stylesheet" href="./css"/>
        <link rel="stylesheet" href="./javascript"/>
@@ -42,12 +40,7 @@
     and machine learning enthusiast. I enjoy creating different educational materials. 
     </p>
 
-    </div>
-    <!.......about image.....>
-    <div>
-        <img src="./web.dev.jpg" style="width: 50;" alt="front end web developer" title="front end deleloper logo" >
-        <img src="./robi.png" style="width:25% ;" alt="full stack web deleloper" title="full-stack developer logo">
-    </div>   
+    </div> 
 <address>
   Addis Ababa, Ethiopia </br>
   POBOX:1000 </br>
