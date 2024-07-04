@@ -3,4 +3,3 @@ I attended different universities and that gave me an insight for many of the th
 I teach different technologies specially HTML, CSS, JS, React, Python, photoshop and graphic design. 
 In addition, I am give training on electromechanical device troubleshooting and repair  and machine learning enthusiast. 
  I enjoy creating different educational materials. 
--->
