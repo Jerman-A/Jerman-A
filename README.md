@@ -12,12 +12,13 @@
          <meta name="author" content="Jerman Asfaw"/>
        <title>Jerman Asfaw</title>
        <link rel="stylesheet" href="./css"/>
+      <link
        rel="stylesheet"
        href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
        integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
        crossorigin="anonymous"
      />
-     <body>
+     <body style="background-color: blueviolet; color: #12d35f; ">
     <header>
       <h1 id="header-1" class="title">
               <span id="john">Jerman
@@ -26,7 +27,6 @@
       </span>
       </h1>
     </header>
-      <div>
        <p>
     I am an Electromechanical engineer technician, developer, graphic designer, content creator. 
     I am single and I live in Addis Ababa, Ethiopia.
@@ -35,8 +35,6 @@
     In addition, I am give training on electromechanical device troubleshooting and repair and machine learning enthusiast. 
     I enjoy creating different educational materials.   
        </p>
-   
-      </div>
      </body>
 
 </head>
