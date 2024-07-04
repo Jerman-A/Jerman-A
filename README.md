@@ -10,7 +10,6 @@
          <meta name="keywords"
          content="web develop, graphic design, social media content creation"/>
          <meta name="author" content="Jerman Asfaw"/>
-       <title>Jerman Asfaw</title>
        <link rel="stylesheet" href="./css"/>
       <link
        rel="stylesheet"
@@ -27,7 +26,7 @@
       </span>
       </h1>
     </header>
-       <p>
+       <p style="background-color: blueviolet; color: blue;>
     I am an Electromechanical engineer technician, developer, graphic designer, content creator. 
     I am single and I live in Addis Ababa, Ethiopia.
     I attended different universities and that gave me an insight for many of the things I do right now. 
@@ -35,6 +34,11 @@
     In addition, I am give training on electromechanical device troubleshooting and repair and machine learning enthusiast. 
     I enjoy creating different educational materials.   
        </p>
+        <style>
+        body {
+     background-color💛
+     color🌲
+     font-size: 32px
      </body>
 
 </head>
