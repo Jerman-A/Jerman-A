@@ -34,13 +34,7 @@
     In addition, I am give training on electromechanical device troubleshooting and repair and machine learning enthusiast. 
     I enjoy creating different educational materials.   
        </p>
-        <style>
-        body {
-     background-color💛
-     color🌲
-     font-size: 32px
-     </body>
-     </style>
+   
 
 </head>
 </html>
