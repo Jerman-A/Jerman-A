@@ -21,7 +21,7 @@
     <header>
       <h1 id="header-1" class="title">
               <span id="john">Jerman
-              </span>
+        </span>
               <span id="Ac"> Asfaw
       </span>
       </h1>
