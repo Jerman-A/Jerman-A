@@ -40,6 +40,7 @@
      color🌲
      font-size: 32px
      </body>
+     </style>
 
 </head>
 </html>
